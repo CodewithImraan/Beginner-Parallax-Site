@@ -14,6 +14,9 @@ Designed with clean **HTML** and **CSS**, this site brings a smooth parallax scr
 ---
 
 ## 📂 Project Structure
+/images        --> All images used in the project
+index.html     --> Main HTML file
+styles.css     --> CSS stylesheet
 
 
 ---
