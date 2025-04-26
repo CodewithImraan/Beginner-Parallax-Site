@@ -17,7 +17,7 @@
 /* first image section */
 
 .section-1 {
-  background: url(images/laptop.avif);
+  background: url(laptop.avif);
   height: 550px;
   width: 100%;
   background-position: center;
@@ -64,7 +64,7 @@ p {
 /* second image section */
 
 .section-3 {
-  background: url(images/coders.jpg);
+  background: url(coders.jpg);
   height: 550px;
   width: 100%;
   background-position: center;
@@ -104,7 +104,7 @@ p {
 /* third image section */
 
 .section-5 {
-  background: url(images/coderss\ 2.jpg);
+  background: url(coderss\ 2.jpg);
   height: 550px;
   width: 100%;
   background-position: center;
